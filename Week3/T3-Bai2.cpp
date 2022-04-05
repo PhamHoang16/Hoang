@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
     int n; 
+    cout << "nhap n: ";
     cin >> n;
     double a[n+3];
     for(int i = 0; i < n; i++){
